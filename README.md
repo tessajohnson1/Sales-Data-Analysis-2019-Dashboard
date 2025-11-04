@@ -1,4 +1,4 @@
-📊 Sales Data Analysis Dashboard (Power BI)
+📊 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐏𝐨𝐰𝐞𝐫 𝐁𝐈)
 
 📁 Project Overview
 
@@ -7,118 +7,117 @@ The dashboard provides valuable insights into key business metrics such as total
 
 🎯 Objectives
 
-The main goals of this dashboard are:
+•	The main goals of this dashboard are:
 
-To visualize sales performance across different months, cities, and products.
+•	To visualize sales performance across different months, cities, and products.
 
-To identify top-performing products and regions.
+•	To identify top-performing products and regions.
 
-To analyze sales patterns based on time and product category.
+•	To analyze sales patterns based on time and product category.
 
-To make the data interactive and easily interpretable for stakeholders.
+•	To make the data interactive and easily interpretable for stakeholders.
 
 🧩 Dataset Details
 
 Dataset used: cleaned_sales_data.csv.xlsx
 The dataset includes:
 
-Order ID — Unique identifier for each order
+•	Order ID — Unique identifier for each order
 
-Product — Name of the product sold
+•	Product — Name of the product sold
 
-City — Location where the sale occurred
+•	City — Location where the sale occurred
 
-Quantity Ordered — Number of units sold
+•	Quantity Ordered — Number of units sold
 
-Total Sales — Sales amount for each order
+•	Total Sales — Sales amount for each order
 
-Order Date — Date and time of purchase
+•	Order Date — Date and time of purchase
 
 📈 Dashboard Features
 
 The Power BI report (Sales Data Analysis 2019 Dashboard.pbix) includes:
 
-Total KPIs
+•	Total KPIs
 
-Quantity Ordered
+•	Quantity Ordered
 
-Total Orders
+•	Total Orders
 
-Total Sales
+•	Total Sales
 
-Number of Cities
+•	Number of Cities
 
-Visualizations
+•	Visualizations
 
-Total Sales by Month – Trend analysis over time
+•	Total Sales by Month – Trend analysis over time
 
-Total Sales by Product – Comparison of sales by product type
+•	Total Sales by Product – Comparison of sales by product type
 
-Total Sales by City – Regional sales performance
+•	Total Sales by City – Regional sales performance
 
-Total Sales by Hour – Hourly sales trends for time-based insights
+•	Total Sales by Hour – Hourly sales trends for time-based insights
 
-Total Orders by Product – Product-level order volume analysis
+•	Total Orders by Product – Product-level order volume analysis
 
-Interactive Filters (Slicers)
+•	Interactive Filters (Slicers)
 
-Filter by City
+•	Filter by City
 
-Filter by Product
+•	Filter by Product
 
-Filter by Month Name
+•	Filter by Month Name
 
-Navigation
+•	Navigation
 
-Interactive Overview button for easy page navigation
+•	Interactive Overview button for easy page navigation
 
 🛠️ Tools & Technologies Used
 
-Power BI Desktop – For dashboard creation and data visualization
+•	Power BI Desktop – For dashboard creation and data visualization
 
-Microsoft Excel – For initial data cleaning and formatting
+•	Microsoft Excel – For initial data cleaning and formatting
 
-DAX (Data Analysis Expressions) – For calculated measures and KPIs
+•	DAX (Data Analysis Expressions) – For calculated measures and KPIs
 
 🧠 Insights Derived
 
-Top Selling Product: MacBook Pro Laptop had the highest sales among all products.
+•	Top Selling Product: MacBook Pro Laptop had the highest sales among all products.
 
-Most Active Sales Hours: Peak sales occurred around mid-day and evening hours.
+•	Most Active Sales Hours: Peak sales occurred around mid-day and evening hours.
 
-Top Performing Cities: San Francisco and Los Angeles recorded the highest sales volumes.
+•	Top Performing Cities: San Francisco and Los Angeles recorded the highest sales volumes.
 
-Month-wise Trend: Sales peaked during December, likely due to seasonal demand.
+•	Month-wise Trend: Sales peaked during December, likely due to seasonal demand.
 
 🧾 How to Use
 
-Download dataset
+•	Download dataset
 
-Clean and preprocess the data - cleaned_sales_data.csv.xlsx
+•	Clean and preprocess the data - cleaned_sales_data.csv.xlsx
 
-Open new file in Power BI Desktop.
+•	Open new file in Power BI Desktop.
 
-Ensure the dataset path is correct (update data source if necessary).
+•	Ensure the dataset path is correct (update data source if necessary).
 
-Explore the dashboard interactively using filters and navigation buttons.
+•	Explore the dashboard interactively using filters and navigation buttons.
 
 📂 Repository Structure
 📁 Sales-Data-Analysis-Dashboard
 │
-├── cleaned_sales_data.csv.xlsx        # Cleaned dataset used in Power BI
-├── Sales Data Analysis 2019 Dashboard.pbix  # Power BI dashboard file
+├── cleaned_sales_data.csv.xlsx      # Cleaned dataset used in Power BI
+├── Sales Data Analysis 2019 Dashboard.pbix # PowerBI dashboard file
 └── README.md                          # Project documentation
 
 💡 Future Improvements
 
-Add year-over-year comparison for multi-year data.
+•	Add year-over-year comparison for multi-year data.
 
-Implement forecasting visuals using Power BI’s analytics tools.
+•	Implement forecasting visuals using Power BI’s analytics tools.
 
-Include category-wise profit analysis and customer segmentation.
+•	Include category-wise profit analysis and customer segmentation.
 
 👩‍💻 Author
-
 Tessa Johnson
-📧 [Your Email or GitHub Profile Link]
+📧 https://github.com/tessajohnson1
 💬 Developed as part of a data visualization and analytics learning project.
