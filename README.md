@@ -104,10 +104,12 @@ The Power BI report (Sales Data Analysis 2019 Dashboard.pbix) includes:
 
 📂 Repository Structure
 📁 Sales-Data-Analysis-Dashboard
-│
-├── cleaned_sales_data.csv.xlsx      # Cleaned dataset used in Power BI
-├── Sales Data Analysis 2019 Dashboard.pbix # PowerBI dashboard file
-└── README.md                          # Project documentation
+
+ cleaned_sales_data.csv.xlsx      # Cleaned dataset used in Power BI
+ 
+ Sales Data Analysis 2019 Dashboard.pbix # PowerBI dashboard file
+
+ README.md                          # Project documentation
 
 💡 Future Improvements
 
@@ -120,4 +122,5 @@ The Power BI report (Sales Data Analysis 2019 Dashboard.pbix) includes:
 👩‍💻 Author
 Tessa Johnson
 📧 https://github.com/tessajohnson1
+
 💬 Developed as part of a data visualization and analytics learning project.
