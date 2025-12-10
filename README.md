@@ -1,4 +1,4 @@
-📊 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐏𝐨𝐰𝐞𝐫 𝐁𝐈)
+📊 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐏𝐨𝐰𝐞𝐫 𝐁𝐈/Excel)
 
 📁 Project Overview
 
@@ -36,7 +36,7 @@ The dataset includes:
 
 📈 Dashboard Features
 
-The Power BI report (Sales Data Analysis 2019 Dashboard.pbix) includes:
+📈The Power BI report (Sales Data Analysis 2019 Dashboard.pbix) includes:
 
 •	Total KPIs
 
@@ -71,6 +71,18 @@ The Power BI report (Sales Data Analysis 2019 Dashboard.pbix) includes:
 •	Navigation
 
 •	Interactive Overview button for easy page navigation
+
+📊 Excel: PivotTables & PivotCharts (Workflow)
+Steps:
+1.	Convert data to Table (Ctrl+T).
+2.	Insert PivotTable.
+3.	Drag fields to Rows, Columns, Values.
+4.	Group dates by Month/Quarter/Year.
+5.	Add Slicers & Timelines.
+6.	Create PivotCharts (line, bar, pie).
+7.	Use GETPIVOTDATA for dashboard KPIs.
+8.	Refresh data when source updates.
+
 
 🛠️ Tools & Technologies Used
 
